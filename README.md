@@ -1,1 +1,1 @@
-###### mindplannerbd.netlify.app
+###### https://mindplannerbd.netlify.app/

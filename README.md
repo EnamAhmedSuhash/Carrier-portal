@@ -1,0 +1,1 @@
+###### mindplannerbd.netlify.app
